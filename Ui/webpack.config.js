@@ -1,7 +1,7 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const webpack = require('webpack')
 
-const port = 3000
+const port = 8080
 
 // Webpack configuartion goes here
 // mode: tells WP that the following config will be for development or prod
